@@ -191,10 +191,6 @@ footer{
     text-align: center;
 }
 
-footer p{
-    font-size: 17px;
-}
-
 
 
 
@@ -294,15 +290,13 @@ footer p{
     }
 
     .contact-container{
-        width: 100%;
-        margin-top: 26%;
-        padding: 40px;
-        grid-template-columns: repeat(1, 80%);
+        margin-bottom: -14%;
+        margin-top: -18%;
+
     }
     .contact-container .content{
-        font-size: 15px ;
+        font-size:14px ;
+     
         color: #adaaaa;
     }
-    
-
 }
